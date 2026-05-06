@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Product+Manager+%C2%B7+Data+Scientist;AI+Builder+%C2%B7+6%2B+Years+of+Impact;Building+at+the+intersection+of+PM+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Product+Manager+%C2%B7+Data+Scientist;AI+Builder+%C2%B7+6%2B+Years+of+Impact;Building+at+the+intersection+of+PM+%26+AI)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=drdanial97&color=2F81F7&style=flat&label=Profile+Views)
 
@@ -52,14 +52,6 @@ Currently teaching Data Science in Berlin and quietly building [reflct.io](https
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-**Top Languages**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdanial97&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</div>
 
 ---
 
