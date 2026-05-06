@@ -1,21 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drdanial97/drdanial97/main/Dani-profile-2026.PNG" width="120"/>
-</p>
-
-<h1 align="center">Danial Darabi</h1>
-
-<p align="center">
-  <b>Product Manager · Data Scientist · AI Builder</b><br/>
-  <sub>📍 Berlin, Germany</sub>
-</p>
-
-<p align="center">
-  <a href="mailto:danialdarabi.pm@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/drdanial97">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://danialdarabi.com">🌐 Website</a>
-</p>
-
----
+**Product Manager · Data Scientist · AI Builder**
 
 6+ years building products at scale — from **50M-user platforms** to **0→1 AI tools**. Dual background in Software Engineering and MBA. I work at the intersection of product strategy, data science, and generative AI.
 
@@ -29,7 +12,7 @@ Currently teaching Data Science in Berlin and quietly building [reflct.io](https
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs_&_RAG-000000?style=flat&logo=anthropic&logoColor=white)
+![LLMs & RAG](https://img.shields.io/badge/LLMs_&_RAG-000000?style=flat&logo=anthropic&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-6B48FF?style=flat)
 
 ---
@@ -44,4 +27,4 @@ Currently teaching Data Science in Berlin and quietly building [reflct.io](https
 
 ---
 
-<p align="center"><sub>Open to PM and Data Science roles in Germany 🇩🇪</sub></p>
+*Open to PM and Data Science roles in Germany 🇩🇪*
