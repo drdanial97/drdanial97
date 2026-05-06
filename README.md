@@ -1,3 +1,13 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Product+Manager+%C2%B7+Data+Scientist;AI+Builder+%C2%B7+6%2B+Years+of+Impact;Building+at+the+intersection+of+PM+%26+AI)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=drdanial97&color=2F81F7&style=flat&label=Profile+Views)
+
+</div>
+
+---
+
 **Product Manager · Data Scientist · AI Builder**
 
 6+ years building products at scale — from **50M-user platforms** to **0→1 AI tools**. Dual background in Software Engineering and MBA. I work at the intersection of product strategy, data science, and generative AI.
@@ -45,6 +55,22 @@ Currently teaching Data Science in Berlin and quietly building [reflct.io](https
 
 ---
 
+**Top Languages**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdanial97&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+**Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=drdanial97&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
 **Where I've worked**
 
 🚗 **Senior PM — Snapp!** *(Iran's Uber · 50M users)* — Built GenAI tools cutting analysis time 80%, reduced pickup wait time 4.2→3.5 min, NPS 61→67
@@ -55,4 +81,16 @@ Currently teaching Data Science in Berlin and quietly building [reflct.io](https
 
 ---
 
-*Open to PM and Data Science roles in Germany 🇩🇪*
+**Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdanial97/drdanial97/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdanial97/drdanial97/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/drdanial97/drdanial97/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center"><sub>Open to PM and Data Science roles in Germany 🇩🇪</sub></div>
